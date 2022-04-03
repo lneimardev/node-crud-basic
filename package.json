@@ -1,0 +1,9 @@
+{
+  "name": "node-crud-basic",
+  "version": "1.0.0",
+  "description": "node examplo for simple crud with api and mongodb",
+  "main": "index.js",
+  "repository": "https://github.com/lneimardev/node-crud-basic.git",
+  "author": "Neimar ",
+  "license": "MIT"
+}
